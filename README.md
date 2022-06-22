@@ -9,4 +9,4 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 
 команда для запуска: 
 
-`ruby magicBall.rb`
+```ruby magicBall.rb```
